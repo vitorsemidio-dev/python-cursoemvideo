@@ -1,0 +1,49 @@
+046
+Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificio
+Indo de 10 ateh 0, com uma pausa de 1 segundo entre elas.
+
+047
+Crie um programa que mostre na tela todos os numeros pares entre 1 e 50
+
+048
+Faça um programa que calcule a soma entre todos os numeros impares que sao multiplos de três entre 1 e 500
+
+
+049
+Refaça o desafio 009,
+
+
+050
+Desenvolva um programa que leia seis numeros inteiros e mostre a soma apenas daqueles que forem pares
+
+051
+Desenvolva um programa que leia o primeiro termo e a razão de uma Pa.
+No final mostre os dez primeiros termos dessa progressao
+
+052
+Faça um programa que leia um numero inteiro e diga se ele é ou não primo.
+
+053
+Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+ex:
+apos a sopa
+a sacada da casa
+a torre da derrota
+o lobo ama o bolo
+anotaram a data da maratona
+
+054
+Crie um programa que leia o ano de nascimento de ste pessoas.
+No final, mostre quantas pessoas ainda não atingiram a maioridade e quantos já são maiores
+Considere maioridade = 21 anos
+
+055
+Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor dos pesos lidos
+
+
+056
+Desenvolva um programa que leia o nome, idade e sexo de quatro pessoas.
+No final do programa, mostre:
+A media de idade do grupo
+Qual o nome do homem mais velho.
+Quantas mulheres tês menos de 20 anos

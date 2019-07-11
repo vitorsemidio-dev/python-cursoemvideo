@@ -1,0 +1,79 @@
+036
+Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa.
+O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele irá pagar
+Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário
+ou então o empréstimo será negado
+
+
+037
+Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher
+qual será a base de conversão:
+1 para binário
+2 para octal
+3 para hexadecimal
+
+
+038
+Escreve um program aque leia dois números inteiros e compare-os, mostrando na tela uma mensagem
+O primeiro valor eh maior
+O segundo valor eh maior
+Nao existe vlaor maior, os dois são iguais
+
+039
+Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
+Se ele ainda vai se alistar ao serviço militar.
+Se é a hora de se alistar.
+Se já passou do tempo do alistamento
+Seu programa também deverá mostrar o tempo que falta ou que passou do prazo
+
+
+
+040
+Crie um programa que leia duas notas do aluno e calcule a media
+>= 7 aprovado
+< 5 reprovado
+else recuperação
+
+
+041
+A Confederação Nacional de Natação precisa de um programa que elia o ano de nascimento
+de um atleta e mostre sua categoria, de acordo com a idade:
+Ateh nove anos mirim
+athe 14 infantil
+ateh 19 junior
+ateh 20 senior
+acima master
+
+
+042
+Refaça o desafio 0305 dos triangulos, acrescentado o recurso de mostrar que tipo de triângulo será formado:
+Equilátero
+Isósceles
+Escalenos
+
+
+043
+Desenvolva uma lógica que leia o peso e altura de uma pessoa, calcule seu IMC e mostre seu status
+abaixo de 18.5: abaixo do peso
+entre 18.5 e 25: peso ideal
+entre 25 e 30: sobrepeso
+entre 30 e 40: obsidade
+acima de 40: obesidade morbida
+
+
+044
+Elabore um programa que calcule o valor a ser pago por um produto,
+considerando o seu preço normal e condição de pagamento
+A vista dinheiro/cheque
+    10% de desconto
+A vista no cartao
+    5% de desconto
+Em ateh 2x no cartao
+    preço normal
+3x ou mais no cartao
+    20% de juros
+
+
+
+045
+Crie um programa que faça o computador jogar Jokenpô com vc

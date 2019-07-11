@@ -1,0 +1,36 @@
+066
+Crie um progra que leia vários numeros inteiros pelo teclado.
+O programa só vai parar quando o usuário digitar o valor 999.
+No final, mostre quantos numeros foram digitados e qual foi a soma entre eles (desocnsiderando 999)
+
+067
+Faça um programa que mostre a tabuada de vários numeroes, um de cada vez, para cada valor digitado
+O programa será interrompido quando o número solicitado for negativo.
+
+068
+Faça um programa que jogue par ou impar com o PC.
+O jogo só será interrompido quando o jogador perder, mostrando o total de vitorias consecutivas.
+
+069
+Crie um programa que leia a idade e sexo de várias pessoas.
+A cada pessoa cadastrada, o programa deverá perguntar se o usuário qr continuar ou não.
+No final, mostre:
+a) quantas pessoas têm mais de dezoito anos.
+b) quantos homens focam cadastrados.
+c) quantas mulheres têm menso de 20 anos
+
+
+070
+Crie um programa que leia o nome e o preço de vários produtos.
+O programa deverá perguntar se o usuário vai continuar.
+No final, mostre:
+a) qual é o total gasto na compra.
+b) quantos produtos custam mais de mil reais
+c) qual é o nome do produto mais barato.
+
+
+071
+Crie um programa que simule o funcionamento de um caixa eletrônico.
+no início, pergunte ao usuário qual será o valor a ser sacado
+e o rpgrama vai informar quantas cédulas de cada valor serão entregues.
+obs: considere que o caixa possua cédulas de 50 20 10 e 1

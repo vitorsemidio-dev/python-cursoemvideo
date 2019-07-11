@@ -1,0 +1,42 @@
+Código ANSI
+\033[0:33:44m
+\033[style:text:back
+
+
+0 -> neutro
+
+style: 0 1 4 7
+    0 none
+    1 bold
+    4 underline
+    7 inverte
+
+
+text: 30 .. 37
+    branco
+    vermelho
+    verde
+    amarelo
+    azul
+    roxo
+    ciano
+    cinza #padrão
+
+
+text: 40 .. 47
+    branco
+    vermelho
+    verde
+    amarelo
+    azul
+    roxo
+    ciano
+    cinza #padrão
+
+Teste
+    \033[0:30:41m
+    \033[4:33:44m
+    \033[0:35:43m
+    \033[0:30:42m
+    \033[m
+    \033[7:30:m
